@@ -4,11 +4,7 @@
 
 ## Как запустить
 
-1. Создайте публичный репозиторий GitHub.
-2. Загрузите в него всё содержимое этого архива, сохранив папку `.github/workflows`.
-3. Откройте вкладку **Actions** → **Update Ultimate Podkop List** → **Run workflow**.
-4. После выполнения появится файл `ultimate-podkop-list.txt`.
-5. В Podkop добавьте URL:
+1. В Podkop добавьте URL:
 
 ```text
 https://raw.githubusercontent.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/main/ultimate-podkop-list.txt
