@@ -3,9 +3,10 @@ name: Update Ultimate Podkop List
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 2 * * *"
+    - cron: "17 */6 * * *"
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
       - "generate.py"
       - ".github/workflows/update.yml"
@@ -13,20 +14,42 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-podkop-list
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
-      - name: Generate list
+          python-version: "3.13"
+
+      - name: Generate domain list
         run: python generate.py
-      - name: Commit changes
+
+      - name: Validate result
+        run: |
+          test -s ultimate-podkop-list.txt
+          count=$(grep -v '^#' ultimate-podkop-list.txt | sed '/^[[:space:]]*$/d' | wc -l)
+          echo "Domains: $count"
+          test "$count" -ge 500
+
+      - name: Commit updated list
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ultimate-podkop-list.txt
-          git diff --cached --quiet || git commit -m "Update Ultimate Podkop List"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Ultimate Podkop List"
+            git push
+          fi
