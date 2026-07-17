@@ -2,15 +2,15 @@
 
 Автоматический список доменов для Podkop, рассчитанный на использование в России.
 
-## Как запустить
+## URL для Podkop
 
-1. В Podkop добавьте URL:
+https://raw.githubusercontent.com/nking91/ultimate-podkop-list/main/ultimate-podkop-list.txt
 
-```text
-https://raw.githubusercontent.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/main/ultimate-podkop-list.txt
-```
+Тип списка в Podkop:
 
-Тип списка в Podkop: **Dynamic / URL**, режим — маршрутизация через прокси.
+- Dynamic / URL
+- Маршрутизация через прокси
 
-Список ежедневно пересобирается, удаляет дубли и ограничивается 5000 доменами.
-Не добавляйте одновременно этот список и `Russia inside`: Ultimate уже включает его источник.
+Список автоматически обновляется через GitHub Actions.
+
+Отдельно добавлять Russia inside не нужно — он уже включён.
