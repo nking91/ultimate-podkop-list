@@ -366,3 +366,10 @@ gvt2.com
 # Ugoos TV-приставки (прошивки)
 ugoos.com
 ugoos.net
+
+# Bitwarden
+bitwarden.com
+bitwarden.eu
+bitwarden.net
+btwrdn.co
+btwrdn.com
