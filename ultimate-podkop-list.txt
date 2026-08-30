@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1475
+# Domains: 1489
 
 10minutemail.com
 1337x.to
@@ -59,6 +59,7 @@ amx.com
 analog.com
 andrevi.ch
 android.clients.google.com
+android.com
 anidub.com
 anilib.me
 anilibria.org
@@ -403,6 +404,7 @@ fastpic.org
 fb.com
 fbcdn.net
 fbsbx.com
+fedoraproject.org
 ficbook.net
 figma.com
 figmausercontent.com
@@ -470,6 +472,7 @@ generativelanguage.googleapis.com
 genspark.ai
 geolocation.onetrust.com
 germania.one
+getfedora.org
 getoutline.com
 getoutline.org
 gfn.am
@@ -505,6 +508,7 @@ golosameriki.com
 gonift.com
 gonitro.com
 goodreads.com
+google.com
 googleapis.com
 googleplay.com
 googleusercontent.cn
@@ -532,6 +536,7 @@ gstatic.com
 guilded.gg
 gulagu.net
 gvt1.com
+gvt2.com
 habr.com
 hackernoon.com
 hackmd.io
@@ -754,6 +759,7 @@ metal-archives.com
 metla.press
 metopera.org
 mezha.net
+microsoft.com
 microsoftonline.com
 middlewareinventory.com
 midjourney.com
@@ -773,6 +779,7 @@ more.fm
 moscowtimes.ru
 mouser.com
 mouser.fi
+msftconnecttest.com
 mssg.me
 mullvad.net
 multisim.com
@@ -875,6 +882,7 @@ onfastspring.com
 onlinesim.io
 onshape.com
 ookla.com
+open-meteo.com
 openai.com
 openaiapi-site.azureedge.net
 openh264.org
@@ -882,11 +890,13 @@ openmedia.io
 openrouter.ai
 opensanctions.org
 opensea.io
+openstreetmap.org
 opentrackr.org
 opposition-news.com
 oracle.com
 oraclecloud.com
 origin.com
+osm.org
 ovd.info
 ovd.legal
 ovd.news
@@ -1053,6 +1063,7 @@ roblox.com
 robloxdev.com
 root-nation.com
 roskomsvoboda.org
+rpmfusion.org
 rublacklist.net
 rule34.art
 rule34.us
@@ -1342,6 +1353,8 @@ ubi.com
 ubisoft.com
 ubisoftconnect.com
 udio.com
+ugoos.com
+ugoos.net
 ui.ill.in.ua
 uizard.io
 ukdevilz.com
@@ -1420,6 +1433,7 @@ wikimedia.org
 wikipedia.org
 wilsoncenter.org
 windows10spotlight.com
+windowsupdate.com
 windscribe.com
 windsurf.com
 wise.com
