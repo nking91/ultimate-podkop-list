@@ -123,7 +123,17 @@ def main() -> None:
     successful_sources = 0
     errors: list[str] = []
 
+    fallback_path = Path("fallback-manual-list.txt")
+    if fallback_path.exists():
+        fallback_domains = parse(fallback_path.read_text(encoding="utf-8"))
+        new_count = len(fallback_domains - domains)
+        domains.update(fallback_domains)
+        print(f"OK: {fallback_path} — {len(fallback_domains)} доменов ({new_count} новых)")
+    else:
+        print(f"WARNING: {fallback_path} не найден, пропускаю")
+
     for url in SOURCES:
+        
         try:
             parsed = parse(download(url))
             if not parsed:
