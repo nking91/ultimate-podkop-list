@@ -6,9 +6,7 @@
 
 - Базовый список Russia inside — уже включён, отдельно добавлять не нужно
 - Сервисные списки проекта [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains)
-- Ручные дополнения из fallback-manual-list.txt (см. ниже)
-
-Искусственного лимита в 5000 доменов нет.
+- Ручные дополнения из fallback-manual-list.txt 
 
 ## Подключение в Podkop
 
