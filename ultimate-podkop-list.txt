@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1489
+# Domains: 1494
 
 10minutemail.com
 1337x.to
@@ -143,6 +143,9 @@ bihus.info
 bitbucket.org
 bitdefender.com
 bitnami.com
+bitwarden.com
+bitwarden.eu
+bitwarden.net
 blackseanews.net
 blinkshot.io
 blizzard.com
@@ -167,6 +170,8 @@ bsky.social
 bt4gprx.com
 btdig.com
 btod.com
+btwrdn.co
+btwrdn.com
 buanzo.org
 buf.build
 bufferbloat.net
