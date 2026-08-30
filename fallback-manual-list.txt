@@ -4,6 +4,14 @@
 # Не включает российские сайты и не заменяет Russia inside.
 # Всего доменов: 295
 
+# GrapheneOS
+grapheneos.org
+vanadium.app
+seamlessupdate.app
+attestation.app
+grapheneos.social
+grapheneos.network
+
 # Spotify
 spotify.com
 scdn.co
