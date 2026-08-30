@@ -1,16 +1,16 @@
 # Ultimate Podkop List
 
-Автоматический список доменов для Podkop, рассчитанный на использование в России.
+Автоматически обновляемый список доменов для [Podkop](https://github.com/itdoginfo/podkop) — маршрутизация трафика через прокси/VPN на роутере (OpenWrt).
 
-## URL для Podkop
+## Что внутри
 
+- Базовый список Russia inside — уже включён, отдельно добавлять не нужно
+- Сервисные списки проекта [itdoginfo/allow-domains](https://github.com/itdoginfo/allow-domains)
+- Ручные дополнения из fallback-manual-list.txt (см. ниже)
+
+Искусственного лимита в 5000 доменов нет.
+
+## Подключение в Podkop
+
+URL для добавления в настройках Podkop (тип списка: Dynamic / URL, маршрутизация: через прокси):
 https://raw.githubusercontent.com/nking91/ultimate-podkop-list/main/ultimate-podkop-list.txt
-
-Тип списка в Podkop:
-
-- Dynamic / URL
-- Маршрутизация через прокси
-
-Список автоматически обновляется через GitHub Actions.
-
-Отдельно добавлять Russia inside не нужно — он уже включён.
