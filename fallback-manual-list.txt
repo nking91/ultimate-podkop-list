@@ -336,3 +336,10 @@ substack.com
 substackcdn.com
 patreon.com
 patreonusercontent.com
+
+# Open-Meteo (погода)
+open-meteo.com
+
+# OpenStreetMap / Nominatim (поиск адреса)
+openstreetmap.org
+osm.org
