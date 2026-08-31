@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1494
+# Domains: 1495
 
 10minutemail.com
 1337x.to
@@ -20,6 +20,7 @@ a-vrv.akamaized.net
 abercrombie.com
 abook-club.ru
 academy.terrasoft.ua
+accrescent.app
 activatica.org
 adguard-vpn.com
 adguard.com
