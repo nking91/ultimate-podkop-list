@@ -1,7 +1,10 @@
 # Podkop Russia Complete Add-on
 # Дополнение к встроенному списку Russia inside.
 # Один домен на строку. Предназначено для маршрутизации через прокси.
-# Не включает российские сайты и не заменяет Russia inside.
+# Не включает российские сайты и не заменяет Russia inside. 
+
+# Accrescent
+accrescent.app
 
 # GrapheneOS
 grapheneos.org
