@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1495
+# Domains: 1499
 
 10minutemail.com
 1337x.to
@@ -423,7 +423,9 @@ filmix.day
 filmix.fan
 filmix.fm
 filmix.la
+firebaseapp.com
 firebaseinstallations.googleapis.com
+firebaseio.com
 fivetran.com
 flathub.org
 flatpak.org
@@ -835,6 +837,8 @@ nhentai.com
 nhentai.net
 nhl.com
 ni.com
+niagaralauncher.app
+niagaralauncher.com
 nih.gov
 nike.com
 nintendo.com
