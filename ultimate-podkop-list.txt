@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1499
+# Domains: 1501
 
 10minutemail.com
 1337x.to
@@ -306,6 +306,7 @@ deviantart.com
 diabrowser.com
 digash.live
 digikey.com
+digiseller.com
 digitalcontent.sky
 digitalocean.com
 dis.gd
@@ -984,6 +985,7 @@ production.cloudflare.docker.com
 proekt.media
 profitwell.com
 pronouns.page
+proseller.store
 prosleduetmedia.com
 prostovpn.org
 proton.me
