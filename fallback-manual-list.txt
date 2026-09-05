@@ -6,6 +6,10 @@
 # Accrescent
 accrescent.app
 
+# Proseller
+proseller.store
+digiseller.com
+
 # Niagara Launcher
 niagaralauncher.app
 niagaralauncher.com
