@@ -6,6 +6,17 @@
 # Accrescent
 accrescent.app
 
+# Niagara Launcher
+niagaralauncher.app
+niagaralauncher.com
+firebaseio.com
+firebaseapp.com
+
+# Discord (для загрузки Community Themes)
+discord.com
+discordapp.com
+discordapp.net
+
 # GrapheneOS
 grapheneos.org
 vanadium.app
