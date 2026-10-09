@@ -393,6 +393,7 @@ btwrdn.co
 btwrdn.com
 
 # RetroArch
+zurita.me
 thumbnails.libretro.com
 libretro.com
 buildbot.libretro.com
