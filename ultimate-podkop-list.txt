@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1504
+# Domains: 1508
 
 10minutemail.com
 1337x.to
@@ -600,6 +600,7 @@ iditelesombase.org
 idolcomplex.com
 iedb.org
 ig.me
+igdb.com
 ign.com
 iherb.com
 iichan.hk
@@ -688,6 +689,7 @@ langdock.com
 lantern.io
 last.fm
 lastfm.freetls.fastly.net
+launchbox-app.com
 ldoceonline.com
 le-production.tv
 leafletjs.com
@@ -1114,6 +1116,7 @@ scdn.co
 schneider-electric.com
 sci-hub.se
 sci-hub.st
+screenscraper.fr
 scrollrevealjs.org
 scryde.io
 scryde.net
@@ -1285,6 +1288,7 @@ the-village.ru
 theaudiodb.com
 thebarentsobserver.com
 thebell.io
+thegamesdb.net
 theins.press
 theins.ru
 themoscowtimes.com
