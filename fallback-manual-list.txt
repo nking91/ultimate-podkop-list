@@ -396,3 +396,11 @@ btwrdn.com
 thumbnails.libretro.com
 libretro.com
 buildbot.libretro.com
+libretro.com
+thumbnails.libretro.com
+githubusercontent.com
+github.com
+screenscraper.fr
+thegamesdb.net
+igdb.com
+launchbox-app.com
