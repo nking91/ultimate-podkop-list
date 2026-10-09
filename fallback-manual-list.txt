@@ -391,3 +391,8 @@ bitwarden.eu
 bitwarden.net
 btwrdn.co
 btwrdn.com
+
+# RetroArch
+thumbnails.libretro.com
+libretro.com
+buildbot.libretro.com
