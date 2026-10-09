@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1501
+# Domains: 1504
 
 10minutemail.com
 1337x.to
@@ -176,6 +176,7 @@ btwrdn.com
 buanzo.org
 buf.build
 bufferbloat.net
+buildbot.libretro.com
 builds.parsec.app
 bunny.net
 bunnycdn.com
@@ -698,6 +699,7 @@ lgthinq.com
 lh3.googleusercontent.com
 lib.rus.ec
 libgen.li
+libretro.com
 licdn.com
 lidarr.audio
 lifehacker.com
@@ -1294,6 +1296,7 @@ thetvdb.com
 threads.com
 threads.net
 threema.ch
+thumbnails.libretro.com
 ti.com
 tidal.com
 tidalhifi.com
