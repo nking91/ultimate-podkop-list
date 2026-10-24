@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1512
+# Domains: 1520
 
 10minutemail.com
 1337x.to
@@ -948,7 +948,15 @@ philiascans.org
 phncdn.com
 phncdn.com.sds.rncdn7.com
 pimpletv.ru
+pin.it
 pingdom.com
+pinimg.com
+pinterest.co.uk
+pinterest.com
+pinterest.de
+pinterest.fr
+pinterest.ru
+pinterestmail.com
 piratbit.top
 pixabay.com
 pixiv.net
