@@ -410,3 +410,13 @@ launchbox-app.com
 aliexpress-media.com
 aliexpress.com
 aliexpress.ruexpress
+
+#pinterest
+pinterest.com
+pinimg.com
+pin.it
+pinterest.ru
+pinterest.de
+pinterest.fr
+pinterest.co.uk
+pinterestmail.com
