@@ -420,3 +420,7 @@ pinterest.de
 pinterest.fr
 pinterest.co.uk
 pinterestmail.com
+
+#VOT proxy
+media-proxy.toil.cc
+vot-worker.eu.cc
