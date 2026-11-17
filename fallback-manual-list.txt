@@ -64,6 +64,7 @@ googleusercontent.com
 googleusercontent.cn
 
 # GitHub
+gh-proxy.org
 github.com
 github.io
 githubusercontent.com
