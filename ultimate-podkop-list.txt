@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1523
+# Domains: 1525
 
 10minutemail.com
 1337x.to
@@ -286,6 +286,7 @@ danbooru.donmai.us
 dart.dev
 dashboard.algolia.com
 dashboard.gitguardian.com
+dashboard.uptimerobot.com
 data-cdn.mbamupdates.com
 data.cline.bot
 deckbrew.xyz
@@ -1401,6 +1402,7 @@ unrealengine.com
 unscreen.com
 unsplash.com
 uploads.github.com
+uptimerobot.com
 upwork.com
 urlr.me
 usa.one
