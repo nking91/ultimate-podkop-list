@@ -425,3 +425,7 @@ pinterestmail.com
 #VOT proxy
 media-proxy.toil.cc
 vot-worker.eu.cc
+
+#uptimerobot
+dashboard.uptimerobot.com
+uptimerobot.com
