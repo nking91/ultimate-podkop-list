@@ -2,7 +2,7 @@
 # Автоматически обновляемый список доменов для маршрутизации через прокси.
 # Источник: itdoginfo/allow-domains (Russia inside + сервисные списки).
 # Один домен на строку. Поддомены покрываются правилом domain suffix Podkop.
-# Domains: 1526
+# Domains: 1527
 
 10minutemail.com
 1337x.to
@@ -255,6 +255,7 @@ coldfilm.ink
 coldfilm.xyz
 colta.ru
 comments.app
+community-scripts.org
 community.sophos.com
 connect.ngrok-agent.com
 connectivitycheck.gstatic.com
