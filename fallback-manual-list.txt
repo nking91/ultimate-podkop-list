@@ -433,3 +433,4 @@ githubusercontent.com
 github.com
 cdn.jsdelivr.net
 icons.bitwarden.net
+community-scripts.org
